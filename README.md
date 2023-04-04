@@ -9,7 +9,7 @@ Main goal -> animations and lazy loading practice with intersection observer
 ### [Demo](https://cold-world.github.io/bankist-website/)
 
 ![Alt Text](https://i.ibb.co/Njn1gb4/2.gif)
-
+https://i.ibb.co/Njn1gb4/2.gif
 * * *
 
 
